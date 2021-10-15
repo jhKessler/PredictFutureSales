@@ -1,6 +1,6 @@
-numpy
 pandas
-xgboost
-matplotlib
+numpy
 tqdm
-sklearn
+deep_translator
+matplotlib
+format
