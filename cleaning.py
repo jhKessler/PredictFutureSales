@@ -2,10 +2,7 @@ from itertools import product
 from tqdm import tqdm
 import pandas as pd
 from deep_translator import GoogleTranslator
-import seaborn as sns
-import matplotlib.pyplot as plt
-import numpy as np
-import datetime
+
 
 tqdm.pandas()
 
